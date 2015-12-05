@@ -1,0 +1,101 @@
+html, body {
+    height: 100%;
+}
+
+body{
+	background-image:url("oavv3DC.jpg");
+	color:white;
+}
+	
+	h1{
+		
+	}
+	
+	#homeh2{
+		top:200px;
+		left:100px;
+	}
+	
+	h3{
+		text-align:center;
+		padding:50px;
+		top:500px;
+		left:450px;
+	}
+	
+a{
+	color:white;
+	font-size:25px;
+	
+}
+
+menu{
+	
+}
+
+a:hover{
+	text-decoration:none;
+	color:white;
+}
+
+p{
+	font-size: 17px;
+}
+
+.col-md-4{
+	padding:25px;
+}
+
+.h1p{
+	text-align:center;
+}
+
+.navbar-inverse{
+	background:black;
+	
+}
+
+.alt2{
+	background:black;
+	height:60px;
+	width:100%;
+	color:white;
+	text-align:center;
+	position:relative;
+	clear:both;
+	bottom:0px;
+	
+}
+
+#contactform{
+	position:relative;
+	padding:50px;
+}
+
+.slider{
+	height:400px;
+	width:400px;
+	margin: 0 auto;
+
+	}
+
+	.pcontact{
+	margin: 0 aut0;
+	}
+
+	.text-justify{
+		text-align:left;
+		font-size:20px;
+	}
+
+	
+	
+.wrapper {
+    min-height: 100%;
+    height: auto !important;
+    height: 100%;
+    margin: 0 auto -60px; /* the bottom margin is the negative value of the footer's height */
+}
+.footer, .push {
+    height: 60px; /* .push must be the same height as .footer */
+}
